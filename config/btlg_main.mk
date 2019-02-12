@@ -4,7 +4,7 @@ PRODUCT_PACKAGES += \
     MiXplorerPrebuilt \
     WallpaperPickerGoogle \
     GoogleMarkup \
-    ShishuWalls \
+    #ShishuWalls \
     GugelClock \
     VisualizationWallpapers \
     LatinIME \
